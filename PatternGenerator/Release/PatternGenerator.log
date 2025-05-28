@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  calendarbar.cpp
+  MainFrm.cpp
+  PatternGenerator.cpp
+  PatternGeneratorDoc.cpp
+  PatternGeneratorView.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 477 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PatternGenerator.vcxproj -> D:\kts projects\trial.cpp\full-stack-developer\VC ++\Beginner\PatternGenerator\Release\PatternGenerator.exe
